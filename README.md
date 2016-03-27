@@ -9,4 +9,5 @@ Storms and other severe weather events can cause both public health and economic
 This project uses R to explore the NOAA storm database (U.S National Oceanic & Atmospheric Administrations) to answer the following questions.
 1)	Which types of events are most harmful with respect to population health across the U.S.
 2)	Which types of events have the greatest economic consequences across the U.S.
+
 This report may give some insight for government/social agencies when preparing for severe weather events and prioritising resources with respect to severe weather events in the future.
