@@ -1,7 +1,7 @@
 ---
 title: "Impact of Severe Weather Events (USA)"
+output: pdf_document
 date: "Thursday, December 26, 2015"
-output: html_document
 ---
 
 ###Severe weather events impacting the economic and population health across the United States from 1950 to 2011. 
@@ -36,26 +36,6 @@ The data for this report comes in the form of a comma-separated-value file compr
 
 ```r
 library(dplyr)
-```
-
-```
-## 
-## Attaching package: 'dplyr'
-```
-
-```
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-```
-
-```
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
-```
-
-```r
 library(knitr)
 library(markdown)
 ```

@@ -1,7 +1,7 @@
 ---
 title: "Impact of Severe Weather Events (USA)"
+output: pdf_document
 date: "Thursday, December 26, 2015"
-output: html_document
 ---
 
 ###Severe weather events impacting the economic and population health across the United States from 1950 to 2011. 
