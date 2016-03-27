@@ -1,6 +1,6 @@
 ---
 title: "Impact of Severe Weather Events (USA)"
-output: pdf_document
+output: word_document
 date: "Thursday, December 26, 2015"
 ---
 
